@@ -14,6 +14,8 @@ def maximo_encadenado(a: float, b: float, c: float) -> float:
     Referencia: https://docs.python.org/3/reference/expressions.html#comparisons # noqa: E501
     """
 
+    
+
 
 # NO MODIFICAR - INICIO
 assert maximo_encadenado(1, 10, 5) == 10
